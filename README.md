@@ -102,7 +102,10 @@ If you don't have these accounts yet, create them now. All are completely free!
 
 **✅ You're done when**: You can access the Azure Portal dashboard
 
-**💡 Note**: You need access to an organization's Teams data. If using a personal account, you may need to be added to an organization first.
+**💡 Important Note about Account Types**:
+- **For Work/School Teams**: You need a Microsoft 365 work or school account with admin privileges to grant API permissions
+- **Personal Microsoft Accounts**: This app requires access to organizational Teams data via Microsoft Graph API, which is not available for personal Microsoft accounts (outlook.com, hotmail.com)
+- **If you only have a personal account**: Ask your organization's IT administrator to provide you with a work account or to create the Azure app registration on your behalf
 
 ### 1.4 Gmail Account
 **Purpose**: Send notification emails when Teams messages are missed
