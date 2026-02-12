@@ -1,0 +1,21 @@
+{
+  "contacts": [],
+  "settings": {
+    "microsoft": {
+      "clientId": "",
+      "clientSecret": "",
+      "tenantId": "",
+      "redirectUri": ""
+    },
+    "gmail": {
+      "email": "",
+      "appPassword": "",
+      "recipientEmail": ""
+    },
+    "notifications": {
+      "checkIntervalMinutes": 15,
+      "notificationDelaySeconds": 300
+    }
+  },
+  "history": []
+}
