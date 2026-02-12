@@ -5,7 +5,7 @@ A Next.js 14 application that monitors Microsoft Teams for missed messages and s
 ## Features
 
 - 🔔 **Automated Monitoring**: Checks Teams for missed messages on a schedule
-- �� **Gmail Notifications**: Sends beautiful email alerts via Gmail SMTP
+- 📧 **Gmail Notifications**: Sends beautiful email alerts via Gmail SMTP
 - 👥 **Contact Management**: Monitor specific people on Teams
 - 📊 **Dashboard**: Overview of notifications and activity
 - 📜 **History Tracking**: Keep track of all sent notifications
@@ -37,7 +37,7 @@ Before you begin, you'll need:
 
 ```bash
 git clone <your-repo-url>
-cd Testing-AI
+cd teams-gmail-notifier
 npm install
 ```
 
